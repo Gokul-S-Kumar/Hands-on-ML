@@ -1,2 +1,2 @@
-model_checkpoint_path: "CIFAR10_model"
-all_model_checkpoint_paths: "CIFAR10_model"
+model_checkpoint_path: "CIFAR10_SELU_model"
+all_model_checkpoint_paths: "CIFAR10_SELU_model"
