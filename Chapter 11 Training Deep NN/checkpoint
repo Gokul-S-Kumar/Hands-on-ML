@@ -1,2 +1,2 @@
-model_checkpoint_path: "CIFAR10_Dropout_model"
-all_model_checkpoint_paths: "CIFAR10_Dropout_model"
+model_checkpoint_path: "CIFAR10_1cycle_model"
+all_model_checkpoint_paths: "CIFAR10_1cycle_model"
